@@ -1,6 +1,7 @@
 # jwt
 JWT authorization wrapper for phramework, using firebase/php-jwt
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/15b80cc381f741ab8fc5af45bad02dc6)](https://www.codacy.com/app/NohponeX/jwt?utm_source=github.com&utm_medium=referral&utm_content=phramework/jwt&utm_campaign=badger)
 [![Build Status](https://travis-ci.org/phramework/jwt.svg?branch=master)](https://travis-ci.org/phramework/jwt)
 
 ## Usage
